@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ReactCardio/static/css/main.7acaea2f.css",
-    "main.js": "/ReactCardio/static/js/main.07d3183d.js",
+    "main.css": "/ReactCardio/static/css/main.56203edf.css",
+    "main.js": "/ReactCardio/static/js/main.ee08f6b0.js",
     "index.html": "/ReactCardio/index.html",
-    "main.7acaea2f.css.map": "/ReactCardio/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/ReactCardio/static/js/main.07d3183d.js.map"
+    "main.56203edf.css.map": "/ReactCardio/static/css/main.56203edf.css.map",
+    "main.ee08f6b0.js.map": "/ReactCardio/static/js/main.ee08f6b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.56203edf.css",
+    "static/js/main.ee08f6b0.js"
   ]
 }
