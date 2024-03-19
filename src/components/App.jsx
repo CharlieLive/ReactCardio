@@ -1,16 +1,12 @@
+import { Alert } from './Alert';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <>
+      <Alert variant="info">Please update your email</Alert>
+      <Alert variant="error" outlined={true}>There was an error during transaction!</Alert>
+      <Alert variant="success" elevated={true}>Payment recived!</Alert>
+      <Alert variant="warning" outlined={true} elevated={true}>Please update your email</Alert>
+    </>
   );
 };
